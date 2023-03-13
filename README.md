@@ -22,3 +22,6 @@ none
 
 Screenshot:
 <img width="878" alt="Screen Shot 2023-03-12 at 8 58 42 PM" src="https://user-images.githubusercontent.com/119153047/224604876-133882ce-4181-47be-9c8a-371ad8897ab8.png">
+
+Link To Video Walk Through:
+https://www.dropbox.com/s/0sf41ni79j5hra7/Screen%20Recording%202023-03-12%20at%209.12.22%20PM.mov?dl=0
